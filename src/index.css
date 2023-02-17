@@ -12,6 +12,8 @@ code {
     monospace;
 }
 
-.coverImg {
-  width: 400px;
+hr.fancy-line {
+  border: none;
+  height: 0px;
+  box-shadow: 0 1px 4px 1px #005bff;
 }
