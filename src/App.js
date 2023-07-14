@@ -19,7 +19,7 @@ function App() {
         <Row>
           <Col>
             <header style={{ paddingLeft: 0 }}>
-              <Image className="img-fluid" src={bookCover}></Image>
+              <Image className="main_img" src={bookCover}></Image>
             </header>
           </Col>
         </Row>

@@ -17,3 +17,9 @@ hr.fancy-line {
   height: 0px;
   box-shadow: 0 1px 4px 1px #005bff;
 }
+
+.main_img {
+  max-height: 620px;
+  width: 100%;
+  max-width: 810px;
+}

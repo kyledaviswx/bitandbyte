@@ -53,16 +53,15 @@ const Home = () => {
           <h2>About the Author</h2>
           <p>
             Kyle Davis is a full-stack developer from Oklahoma. He is a proud
-            Native American that descends from Cherokee, Choctaw and Delaware
-            tribes. Growing up with a love for weather, he began his career in
+            Native American that is a citizen of the Cherokee Tribe of Northeast
+            Alabama. Growing up with a love for weather, he began his career in
             Meteorology with a degree from the University of Oklahoma. In 2009,
             he wanted to make a phone app, so he bought a programming book and
             began his own new adventure. He immediately fell in love with
             programming and the challenges that come with it. Kyle and his wife
             Aimee have two wonderful children, Spencer and Clara. While reading
             to them one night, he wished there was a way to teach them
-            programming with a fun story. Kids don't want to use a boring
-            textbook! The idea for Bit and Byte was born!
+            programming with a fun story. The idea for Bit and Byte was born!
           </p>
         </Col>
         <Col md={12} lg={6}>
