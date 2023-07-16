@@ -14,14 +14,10 @@ const Home = () => {
           <h1>Order Bit & Byte on Amazon and begin your own adventure!</h1>
         </Col>
         <Col>
-          {/* <div className="amzLinkDiv">
-            <a href="https://google.com" target="_blank" rel="noreferrer">
-              <img src={buyNowButton} alt="example" />
-            </a>
-          </div> */}
-          <h2>Available on Amazon soon!</h2>
           <div className="amzLinkDiv">
-            <img style={{ opacity: "0.4" }} src={buyNowButton} alt="example" />
+            <a href="https://amzn.to/3JZkg1A" target="_blank" rel="noreferrer">
+              <img src={buyNowButton} alt="Buy Bit and Byte on Amazon" />
+            </a>
           </div>
         </Col>
       </Row>
