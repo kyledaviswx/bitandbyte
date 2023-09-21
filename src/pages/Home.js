@@ -15,7 +15,7 @@ const Home = () => {
         </Col>
         <Col>
           <div className="amzLinkDiv">
-            <a href="https://amzn.to/3JZkg1A" target="_blank" rel="noreferrer">
+            <a href="https://amzn.to/3E0bXiM" target="_blank" rel="noreferrer">
               <img src={buyNowButton} alt="Buy Bit and Byte on Amazon" />
             </a>
           </div>
